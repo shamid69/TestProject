@@ -9,9 +9,9 @@ import java.sql.ResultSet;
 
 public class TestConn {
 	
-	 private final static String url = "jdbc:postgresql://dbs2.informatik.uni-halle.de:5435/";
-	 private final static String user = "ahhuk";
-	 private final static String pass = "4b570";
+	 private final static String url = "jdbc:postgresql:";
+	 private final static String user = "";
+	 private final static String pass = "";
 	
 	 
 	 public static void main(String arg[]){
